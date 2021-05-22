@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GestionClientMIN1IsidorePORRETTI</string>
+    <string name="client_last_name">Nom</string>
+    <string name="client_level">Niveau</string>
+    <string name="level_advanced">Avancé</string>
+    <string name="menu_add_action">Ajouter</string>
+    <string name="menu_delete_action">Supprimer</string>
+
+    <string-array name="levels">
+        <item>Débutant</item>
+        <item>Intermédiaire</item>
+        <item>@string/level_advanced</item>
+    </string-array>
+</resources>
